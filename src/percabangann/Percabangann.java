@@ -23,7 +23,7 @@ public class Percabangann {
         
         System.out.println("\nSaran Resep dari Bahan Milik Anda\n");
         
-        Scanner scan = new Scanner (System.in);
+        Scanner scanner = new Scanner (System.in);
         
         System.out.println("Bahan Pertama: ");
         System.out.println("1. Pisang");
@@ -81,6 +81,6 @@ public class Percabangann {
         
         
         
-    }
     
-}
+    
+
